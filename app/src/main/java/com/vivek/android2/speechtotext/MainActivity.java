@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.Locale;
-
+//@author Vivek
 public class MainActivity extends AppCompatActivity {
     TextView text;
     ImageView speek;
